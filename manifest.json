@@ -1,0 +1,11 @@
+{ 
+  "name": "Samsung iTest", 
+  "short_name": "Samsung iTest", 
+  "start_url": "index.html", 
+  "display": "standalone", 
+  "icons": [{ 
+    "src": "https://itest.nz/assets/img/logo-192x192.png", 
+    "sizes": "192x192", 
+    "type": "image/png" 
+  }]
+} 
